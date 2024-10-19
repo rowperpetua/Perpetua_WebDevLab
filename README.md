@@ -16,7 +16,7 @@ The form used radio buttons to have users to only pick one option out of many. A
 This code also uses form and textarea elements. The code includes default texts, but it can always be change to user input by adding placeholder attribute (could be anything) which disappears when the user starts writing. This one also includes reset button for users. Also, use of unnecessary legends such as the code above "A Simple Interview" are discouraged to maintain visual organization of the code. Instead, the inner legend found in the code could be changed to h2.
 
 ### 5.  OPTGROUP tag
-The code depicts a correct structure following the HTML5 standards. It also shows a dropdown list where the users can choose from the list of provinces in the Philippines. Reset button is also present for easier cancellation of selection. Additionaly, if this section is created alone,  a submit button or confirmation would also be helpful with the output of the code to enable users to send their selection.
+The code depicts a correct structure following the HTML5 standards. It also shows a dropdown list where the users can choose from the list of provinces in the Philippines. Reset button is also present for easier cancellation of selection. Additionally, if this section is created alone,  a submit button or confirmation would also be helpful with the output of the code to enable users to send their selection.
 
 ### 6. FIELDSET and LEGEND tags | READONLY attribute | DISABLED attribute
 The code is correct overall, but if it is to be created alone, a submit button would add more an important aspect on the expected output. Also, adding of placeholders that disappears when the user starts typing, would be also good for visuals.
